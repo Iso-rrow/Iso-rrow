@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isorrow
 - 👀 I’m interested in Web developing & Analysis etc.
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning Deeply on Web Developing
 - 💞️ I’m looking to collaborate on Web developing and more projects
 - 📫 How to contact me? : 09063957870
 - 😄 Pronouns: Male
